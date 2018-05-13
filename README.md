@@ -1,5 +1,7 @@
 # awesome-oneplus-3t
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/huihut/awesome-oneplus-3t)
+
  一加 3T ROM、内核（Kernel）、固件（Firmware）、Recovery、框架（Framework）、软件（APP），以备茶余饭后手贱刷机之用。
 
 # ROM
