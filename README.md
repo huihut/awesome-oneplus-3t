@@ -198,12 +198,12 @@ adb shell dpm set-device-owner com.catchingnow.icebox/.receiver.DPMReceiver
 adb -d shell sh /data/data/me.piebridge.brevent/brevent.sh
 ```
 
-## 开启阅读模式
+### 开启阅读模式
 ```
 adb shell am start -a android.settings.OP_READING_MODE_SETTINGS
 ```
 
-## 开启DCI_P3  
+### 开启DCI_P3  
 ```
 adb shell settings put system screen_color_mode_settings_value 4
 ```
