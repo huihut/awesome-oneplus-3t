@@ -5,6 +5,9 @@
  一加 3T ROM、内核（Kernel）、固件（Firmware）、Recovery、框架（Framework）、软件（APP），以备茶余饭后手贱刷机之用。
 
 # ROM
+## 基于9.0  
+
+* [[一加官方] OnePlus 3T 氢OS(H2OS) 9.0 公测第三版](http://www.oneplusbbs.com/thread-4766214-1.html) | [下载](http://download.h2os.com/OnePlus%203T/forum/OnePlus3THydrogen_28_OTA_080_all_1905271910_97ad265fd6bd491d.zip)  
 
 ## 基于 Android 8.1
 
@@ -193,6 +196,16 @@ adb shell dpm set-device-owner com.catchingnow.icebox/.receiver.DPMReceiver
 
 ```
 adb -d shell sh /data/data/me.piebridge.brevent/brevent.sh
+```
+
+## 开启阅读模式
+```
+adb shell am start -a android.settings.OP_READING_MODE_SETTINGS
+```
+
+## 开启DCI_P3  
+```
+adb shell settings put system screen_color_mode_settings_value 4
 ```
 
 # 教程博文
