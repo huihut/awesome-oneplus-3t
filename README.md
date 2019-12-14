@@ -4,6 +4,8 @@
 
  一加 3T ROM、内核（Kernel）、固件（Firmware）、Recovery、框架（Framework）、软件（APP），以备茶余饭后手贱刷机之用。
 
+> 相关仓库：[awesome-google-pixel-4](https://github.com/huihut/awesome-google-pixel-4)：Google Pixel 4/4XL ROM、Recovery、Framework、APP、搞机笔记，以备茶余饭后手贱刷机之用。
+
 # ROM
 ## 基于9.0  
 
